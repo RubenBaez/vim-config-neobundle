@@ -210,7 +210,7 @@
   set cursorline                  " highlight current line
   set anti                        " make text pretty
 
-   colorscheme solarized
+"   colorscheme solarized
 "   colorscheme tomorrow_night_bright
 " }
 
