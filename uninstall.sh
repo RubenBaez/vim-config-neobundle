@@ -12,8 +12,4 @@ if [ -d ~/.vim ]; then
   rm ~/.vimrc;
 fi
 
-unlink ${HOME}/.gitconfig
 unlink ${HOME}/.gitignore_global
-unlink ${HOME}/.bash_profile
-unlink ${HOME}/.tmux.conf
-unlink ${HOME}/.nanorc
