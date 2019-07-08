@@ -1,5 +1,7 @@
 #!/bin/bash
 
+sh uninstall.sh
+
 if [ $(id -u) -eq 0 ]; then
   echo "You should not install this for the root account.";
   exit 1
